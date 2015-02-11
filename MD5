@@ -1,6 +1,7 @@
-2ddd8b28509180a8d38b8417c0e88817 *DESCRIPTION
+3439c0fd6c01156c8b17e065caf4da01 *DESCRIPTION
 1604e1fbc2635ac1e181b19fa61d01e2 *LICENSE
 9860646460976c5685a0c5fa39b4e493 *NAMESPACE
+f683e42c6184ceeac64640420f0f62ca *NEWS
 2cae14a62779bf9ab1436f01914f6bae *R/icon.R
 b88febf830e130a416fb650d98d33c91 *R/input-checkbox.R
 33c9ed1d9eac7c91ee4ff011951ce42a *R/input-checkboxgroup.R
@@ -16,14 +17,14 @@ b9219ecc136173c17374dd2bba0447ae *R/input-utils.R
 916d48d824231a323e1f1460ab0de9a4 *R/layout-fixed.R
 c9f7991f3f1e8638459886ace05f4bcd *R/layout-fluid.R
 53dad4f80cc48c2d843d32ffa6a8dc64 *R/layout-misc.R
-7e00cda5db0d35e17ae6af1f79f9280f *R/output-datatable.R
+f7cb3d9d60edd7ac88180870176e93e3 *R/output-datatable.R
 dbcb91612779c51bd096f42b00300e6e *R/page.R
 b9e7657247088322b58bc9e1e49a6431 *R/panels.R
 1f9bf177272913ef354a189c8d01d2e0 *R/shinybootstrap2.R
 8642ef5223c169190edceee554a947fc *R/tabs.R
 728f87002d8ae0dc935e3371dcc23467 *R/update-inputs.R
 ff596e25388b83fd08bc85cdaa10df0c *R/utils.R
-fd678d946a4627b8f6f1542937c7375b *README.md
+bafd3607d7e45faa55ca96d2861ee846 *README.md
 f914a29600d940a6398322109db32c79 *inst/examples/fluidpage/DESCRIPTION
 a218ec27001fa67b24647be1b0396799 *inst/examples/fluidpage/README.md
 13a8cf921c2c7a90bafee8ce837798a7 *inst/examples/fluidpage/app.R

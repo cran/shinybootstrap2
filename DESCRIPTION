@@ -1,6 +1,6 @@
 Package: shinybootstrap2
-Title: Bootstrap 2 web components for use with Shiny
-Version: 0.2
+Title: Bootstrap 2 Web Components for Use with Shiny
+Version: 0.2.1
 Authors@R: c(
     person("Winston", "Chang", role = c("aut", "cre"), email = "winston@rstudio.com"),
     person(family = "RStudio", role = "cph"),
@@ -28,7 +28,7 @@ Depends: R (>= 3.0.0)
 License: GPL-3 | file LICENSE
 LazyData: true
 Imports: htmltools (>= 0.2.6), jsonlite (>= 0.9.12), shiny
-Packaged: 2015-01-22 17:07:03 UTC; winston
+Packaged: 2015-02-11 16:27:43 UTC; winston
 Author: Winston Chang [aut, cre],
   RStudio [cph],
   Mark Otto [ctb] (Bootstrap library),
@@ -42,4 +42,4 @@ Author: Winston Chang [aut, cre],
 Maintainer: Winston Chang <winston@rstudio.com>
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2015-01-22 19:16:49
+Date/Publication: 2015-02-11 19:57:37
